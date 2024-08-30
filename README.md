@@ -1,6 +1,6 @@
 # Bank-Personal-Loan-Modelling (Self Project)
 
-## Bank Personal Loan Modelling and Prediction | Machine Learning Classification Self Project	 - Nov’22 - Dec’22
+## Bank Personal Loan Modelling and Prediction | Machine Learning Classification Self Project	 - May’24 - July’24
 
 **Objective**
 - Devise a **classifying model** using ML algorithms to predict the likelihood of a customer buying personal loan <br/>
